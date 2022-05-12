@@ -1,3 +1,4 @@
 output/BadRecords.csv
 output/GoodRecords.csv
 output/ETH5min_3eyes.csv
+__pycache__/BackTester.cpython-310.pyc
